@@ -1,4 +1,7 @@
 # obs-pipewire-audio-capture-flatpak
+https://github.com/dimtpap/obs-pipewire-audio-capture
+https://github.com/stashymane/obs-retro-effects-flatpak
+
 Flathub configuration for OBS PipeWire Audio Capture
 
 Run the following commands to install
